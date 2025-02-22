@@ -1,7 +1,7 @@
 <h2>Hi there 👋, I'm Oraya Chantanawat.</h2>
 <p> I am a veterinarian with a passion for technology and coding! 👩🏻‍💻✨ </p>
  🌱 I am currently learning through an intensive full-stack development bootcamp to transition my career into the tech industry. <br/>
- 💡 I'm looking for a challenging software developer role to build awesome, user-friendly web applications. <br/>
+ 💡 I'm looking for a challenging software developer role to build awesome, user-friendly web and mobile applications. <br/>
  ✉️ How to reach me: <a href="mailto:ochantanawat@gmail.com">ochantanawat@gmail.com</a>
  
 <h4>🚀 Languages and Tools I Use</h4>
